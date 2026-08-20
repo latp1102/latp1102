@@ -14,7 +14,7 @@ Hiện tại mình làm việc ở [Công ty hoặc tự do].
 
 ## 📫 Liên hệ
 - Email: latp1102@gmail.com
-- Website / Portfolio: https://your-portfolio.example
+- Website / Portfolio: 
 
 ## ⚡ Thêm chút thông tin
 - Sở thích: máy học, open-source, devops, ...
