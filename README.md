@@ -1,16 +1,23 @@
-## Hi there 👋
+# Xin chào, mình là [Tên của bạn] 👋
 
-<!--
-**latp1102/latp1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là [vai trò/nghề nghiệp] — chuyên về [ngôn ngữ/kỹ năng chính].  
+Hiện tại mình làm việc ở [Công ty hoặc tự do].
 
-Here are some ideas to get you started:
+## 🚀 Kỹ năng & Công nghệ
+- Ngôn ngữ: JavaScript, TypeScript, Python, ...
+- Framework: React, Node.js, Django, ...
+- Công cụ: Git, Docker, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Dự án nổi bật
+- [TênProject1](link) — Mô tả ngắn.
+- [TênProject2](link) — Mô tả ngắn.
+
+## 📫 Liên hệ
+- Email: your-email@example.com
+- Website / Portfolio: https://your-portfolio.example
+
+## ⚡ Thêm chút thông tin
+- Sở thích: máy học, open-source, devops, ...
+- Mục tiêu: Học thêm [kỹ năng], tham gia open-source.
+
+Cảm ơn bạn đã ghé thăm! ✨
