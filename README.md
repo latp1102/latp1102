@@ -13,7 +13,7 @@ Hiện tại mình làm việc ở [Công ty hoặc tự do].
 - [TênProject2](link) — Mô tả ngắn.
 
 ## 📫 Liên hệ
-- Email: your-email@example.com
+- Email: latp1102@gmail.com
 - Website / Portfolio: https://your-portfolio.example
 
 ## ⚡ Thêm chút thông tin
