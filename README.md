@@ -66,9 +66,20 @@ An intelligent personal finance management platform designed to help users manag
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latp1102&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latp1102&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=latp1102&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=latp1102&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
