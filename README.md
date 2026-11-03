@@ -65,9 +65,6 @@ An intelligent personal finance management platform designed to help users manag
 ---
 
 ## 📊 GitHub Statistics
-
-## 📊 GitHub Analytics
-
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=latp1102&show_icons=true&theme=tokyonight&hide_border=true"
@@ -81,7 +78,7 @@ An intelligent personal finance management platform designed to help users manag
   />
 </p>
 
----
+## 📊 GitHub Analytics
 
 ## 🎯 Currently Learning
 
